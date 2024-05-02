@@ -4,7 +4,7 @@ pragma solidity ^0.8.9;
 
 import "erc721a/contracts/ERC721A.sol";
 
-contract -arbaaz is ERC721A {
+contract arbaaz is ERC721A {
     address public owner;
 
     uint256 public maxQuantity = 5;
